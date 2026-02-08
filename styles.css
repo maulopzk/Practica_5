@@ -1,0 +1,19 @@
+.body {
+    background-color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 22px;
+}
+.td{
+    vertical-align: text-top;
+}
+
+.ul{
+    list-style-type: none;
+}
+
+.div{
+    color: aquamarine;
+}
+.table{
+    color: brown;
+}
